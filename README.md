@@ -5,6 +5,10 @@
 
   **Gérante & graphiste chez GPO SARL · Artiste numérique · Développeuse full-stack & IA en formation · [Demoscener](https://demozoo.org/sceners/57855/)**
 
+  <img src="./assets/callisto-eye.jpg" alt="Œuvre numérique originale de Callisto — regard reflétant un paysage parisien incandescent" width="100%">
+
+  <sub>Œuvre originale de CALLISTO · Original artwork by CALLISTO</sub>
+
   *She · Châlons-en-Champagne, France*
 
   [Français](#fr) · [English](#en)
@@ -88,10 +92,11 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 - [**MoodboardAI**](https://github.com/GamePartsOnline/vibecoding-ia-tool) — assistant de direction artistique générant palettes, typographies et variables CSS à partir d’un brief.
 - [**THP-003-DOM**](https://github.com/GamePartsOnline/THP-003-DOM) — exercices pratiques de manipulation du DOM en JavaScript.
 
-## Formations & certification
+## Formations & certifications
 
 - **The Hacking Project** — développement web full-stack, 2026.
 - **MJM Graphics Design** — InDesign, Premiere Pro et After Effects, 2023–2024.
+- **Certificat « Infographie : InDesign »** — School Online University, obtenu le 8 juillet 2023 dans le cadre d’une formation financée par le CPF.
 - **Certification TOSA Illustrator**, 2021.
 
 ## Parcours créatif
@@ -176,10 +181,11 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 - [**MoodboardAI**](https://github.com/GamePartsOnline/vibecoding-ia-tool) — art-direction assistant generating color palettes, typography suggestions, and CSS variables from a creative brief.
 - [**THP-003-DOM**](https://github.com/GamePartsOnline/THP-003-DOM) — practical JavaScript DOM manipulation exercises.
 
-## Education & certification
+## Education & certifications
 
 - **The Hacking Project** — full-stack web development, 2026.
 - **MJM Graphics Design** — InDesign, Premiere Pro, and After Effects, 2023–2024.
+- **“Infographie : InDesign” certificate** — School Online University, earned on July 8, 2023 through a CPF-funded training programme.
 - **TOSA Illustrator certification**, 2021.
 
 ## Creative background
