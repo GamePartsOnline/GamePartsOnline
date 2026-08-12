@@ -48,6 +48,8 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+`Ruby on Rails` · `SQL & Active Record` · `Sinatra` · `API` · `tests & TDD` · `déploiement` · `Agile & Kanban`
+
 **Design, image & vidéo**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
@@ -75,7 +77,7 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 
 - **GPO SARL** — gérance, communication visuelle, rénovation graphique de flippers et jeux, animations événementielles.
 - **Graph2Print** — création graphique, impression numérique et production personnalisée.
-- **The Hacking Project** — formation 2026 au développement web full-stack, Ruby on Rails et JavaScript.
+- **The Hacking Project** — parcours intensif de 450 heures en développement web full-stack, Ruby on Rails et JavaScript, suivi de février à mars 2026.
 - **Callisto Arts** — illustration, art numérique, vidéo, IA créative et productions demoscene.
 
 ## Services
@@ -94,8 +96,9 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 
 ## Formations & certifications
 
-- **The Hacking Project** — développement web full-stack, 2026.
+- **The Hacking Project** — formation intensive de 450 heures en développement web full-stack, du 3 février au 27 mars 2026, préparant au bloc 2 du titre Développeur Web.
 - **MJM Graphics Design** — InDesign, Premiere Pro et After Effects, 2023–2024.
+- **Formation Adobe Illustrator** — MJM Graphic Design Paris, 42 heures, de juillet à octobre 2023 ; parcours associé à l’ICDL « Édition d’images ».
 - **Certificat « Infographie : InDesign »** — School Online University, obtenu le 8 juillet 2023 dans le cadre d’une formation financée par le CPF.
 - **Formation Photoshop — parcours Concepteur designer UI** — EXPERTAIDE, d’avril à juillet 2022.
 - **Certification TOSA Illustrator** — parcours CPF Tuto.com de 185 heures, proposé par WEECAST, 2021.
@@ -138,6 +141,8 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+`Ruby on Rails` · `SQL & Active Record` · `Sinatra` · `APIs` · `testing & TDD` · `deployment` · `Agile & Kanban`
+
 **Design, visual arts & video**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
@@ -165,7 +170,7 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 
 - **GPO SARL** — company management, visual communication, graphic restoration of pinball machines and games, event entertainment.
 - **Graph2Print** — graphic design, digital printing, and custom production.
-- **The Hacking Project** — 2026 full-stack web development training focused on Ruby on Rails and JavaScript.
+- **The Hacking Project** — intensive 450-hour full-stack web development programme focused on Ruby on Rails and JavaScript, undertaken from February to March 2026.
 - **Callisto Arts** — illustration, digital art, video, creative AI, and demoscene productions.
 
 ## Services
@@ -184,8 +189,9 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 
 ## Education & certifications
 
-- **The Hacking Project** — full-stack web development, 2026.
+- **The Hacking Project** — intensive 450-hour full-stack web development programme, February 3 to March 27, 2026, preparing for Block 2 of the Web Developer professional title.
 - **MJM Graphics Design** — InDesign, Premiere Pro, and After Effects, 2023–2024.
+- **Adobe Illustrator training** — MJM Graphic Design Paris, 42 hours, July to October 2023; programme associated with the ICDL “Image Editing” certification.
 - **“Infographie : InDesign” certificate** — School Online University, earned on July 8, 2023 through a CPF-funded training programme.
 - **Photoshop training — UI Designer programme** — EXPERTAIDE, April to July 2022.
 - **TOSA Illustrator certification** — 185-hour CPF training programme from Tuto.com, offered by WEECAST, 2021.
