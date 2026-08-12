@@ -12,7 +12,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-Callisto_Arts-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.callistoarts.com/)
   [![GPO SARL](https://img.shields.io/badge/GPO_SARL-Arcade_&_Flippers-E11D48?style=for-the-badge)](https://www.gposarl.com/)
   [![Graph2Print](https://img.shields.io/badge/Graph2Print-Design_&_Print-0EA5E9?style=for-the-badge)](https://www.graph2print.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frédérique_Charton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederique-charton)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frédérique_Charton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charton-fr%C3%A9d%C3%A9rique-676a424b/?locale=fr)
   [![Behance](https://img.shields.io/badge/Behance-Callisto_Artwork-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/CallistoArtwork)
 </div>
 
