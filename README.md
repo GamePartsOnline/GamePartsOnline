@@ -3,7 +3,7 @@
 
   # Frédérique Charton — CALLISTO
 
-  **Gérante & graphiste chez GPO SARL · Artiste numérique · Développeuse full-stack & IA en formation · Demoscener**
+  **Gérante & graphiste chez GPO SARL · Artiste numérique · Développeuse full-stack & IA en formation · [Demoscener](https://demozoo.org/sceners/57855/)**
 
   *She · Châlons-en-Champagne, France*
 
