@@ -56,16 +56,31 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 
 `UX/UI` · `accessibilité` · `responsive design` · `illustration` · `digital painting` · `pixel art` · `paintover` · `montage vidéo` · `impression numérique`
 
+**Outils principaux :** Illustrator, Photoshop, InDesign, Fresco et Canva.<br>
+**Notions :** Premiere Pro et After Effects.
+
 **IA & workflows créatifs**
 
 `IA générative` · `prompt engineering` · `prototypage assisté par IA` · `automatisation de contenus` · `Adobe Firefly` · `Obsidian`
+
+**Gestion & communication**
+
+`gestion de projet` · `relation client` · `devis et contrats` · `communication digitale` · `coordination` · `organisation événementielle`
 
 ## Activités actuelles
 
 - **GPO SARL** — gérance, communication visuelle, rénovation graphique de flippers et jeux, animations événementielles.
 - **Graph2Print** — création graphique, impression numérique et production personnalisée.
-- **The Hacking Project** — formation au développement web full-stack, Ruby on Rails et JavaScript.
+- **The Hacking Project** — formation 2026 au développement web full-stack, Ruby on Rails et JavaScript.
 - **Callisto Arts** — illustration, art numérique, vidéo, IA créative et productions demoscene.
+
+## Services
+
+- Identité visuelle, illustration et direction artistique.
+- UX/UI et création d’interfaces web responsives.
+- Impression numérique, stickers, marquage et décors personnalisés avec **Graph2Print**.
+- Rénovation graphique de flippers et bornes d’arcade avec **GPO SARL**.
+- Prototypage et workflows créatifs assistés par IA.
 
 ## Projets sélectionnés
 
@@ -73,12 +88,21 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 - [**MoodboardAI**](https://github.com/GamePartsOnline/vibecoding-ia-tool) — assistant de direction artistique générant palettes, typographies et variables CSS à partir d’un brief.
 - [**THP-003-DOM**](https://github.com/GamePartsOnline/THP-003-DOM) — exercices pratiques de manipulation du DOM en JavaScript.
 
+## Formations & certification
+
+- **The Hacking Project** — développement web full-stack, 2026.
+- **MJM Graphics Design** — InDesign, Premiere Pro et After Effects, 2023–2024.
+- **Certification TOSA Illustrator**, 2021.
+
 ## Parcours créatif
 
 - Graphiste active dans la **demoscene** depuis 2015, avec plus de 66 productions.
 - Plusieurs classements internationaux en graphisme, animation et photographie.
-- **Certification TOSA Illustrator** et **certification InDesign MJM**.
 - Gérante de **GPO SARL** depuis 2012.
+
+<div align="center">
+  <a href="https://portfolio.callistoarts.com/#contact"><strong>Disponible pour une collaboration artistique, graphique ou web</strong></a>
+</div>
 
 ---
 
@@ -120,16 +144,31 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 
 `UX/UI` · `accessibility` · `responsive design` · `illustration` · `digital painting` · `pixel art` · `paintover` · `video editing` · `digital printing`
 
+**Main tools:** Illustrator, Photoshop, InDesign, Fresco, and Canva.<br>
+**Basic knowledge:** Premiere Pro and After Effects.
+
 **AI & creative workflows**
 
 `generative AI` · `prompt engineering` · `AI-assisted prototyping` · `content automation` · `Adobe Firefly` · `Obsidian`
+
+**Management & communication**
+
+`project management` · `client relations` · `quotes and contracts` · `digital communication` · `coordination` · `event organization`
 
 ## Current work
 
 - **GPO SARL** — company management, visual communication, graphic restoration of pinball machines and games, event entertainment.
 - **Graph2Print** — graphic design, digital printing, and custom production.
-- **The Hacking Project** — full-stack web development training focused on Ruby on Rails and JavaScript.
+- **The Hacking Project** — 2026 full-stack web development training focused on Ruby on Rails and JavaScript.
 - **Callisto Arts** — illustration, digital art, video, creative AI, and demoscene productions.
+
+## Services
+
+- Visual identity, illustration, and art direction.
+- UX/UI and responsive web interface design.
+- Digital printing, stickers, signage, and custom decorations with **Graph2Print**.
+- Graphic restoration of pinball machines and arcade cabinets with **GPO SARL**.
+- AI-assisted prototyping and creative workflows.
 
 ## Selected projects
 
@@ -137,13 +176,20 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 - [**MoodboardAI**](https://github.com/GamePartsOnline/vibecoding-ia-tool) — art-direction assistant generating color palettes, typography suggestions, and CSS variables from a creative brief.
 - [**THP-003-DOM**](https://github.com/GamePartsOnline/THP-003-DOM) — practical JavaScript DOM manipulation exercises.
 
+## Education & certification
+
+- **The Hacking Project** — full-stack web development, 2026.
+- **MJM Graphics Design** — InDesign, Premiere Pro, and After Effects, 2023–2024.
+- **TOSA Illustrator certification**, 2021.
+
 ## Creative background
 
 - Active **demoscene** graphic artist since 2015, with more than 66 productions.
 - Multiple international rankings in graphics, animation, and photography competitions.
-- **TOSA Illustrator certification** and **MJM InDesign certification**.
 - Manager of **GPO SARL** since 2012.
 
 <div align="center">
+  <a href="https://portfolio.callistoarts.com/#contact"><strong>Available for artistic, graphic design, and web collaborations</strong></a>
+  <br><br>
   <sub>Building bridges between art, technology, and AI.</sub>
 </div>
