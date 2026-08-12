@@ -97,6 +97,7 @@ Avec **Graph2Print**, je développe des projets de création graphique et d’im
 - **The Hacking Project** — développement web full-stack, 2026.
 - **MJM Graphics Design** — InDesign, Premiere Pro et After Effects, 2023–2024.
 - **Certificat « Infographie : InDesign »** — School Online University, obtenu le 8 juillet 2023 dans le cadre d’une formation financée par le CPF.
+- **Formation Photoshop — parcours Concepteur designer UI** — EXPERTAIDE, d’avril à juillet 2022.
 - **Certification TOSA Illustrator** — parcours CPF Tuto.com de 185 heures, proposé par WEECAST, 2021.
 
 ## Parcours créatif
@@ -186,6 +187,7 @@ Through **Graph2Print**, I develop custom graphic design and print projects, inc
 - **The Hacking Project** — full-stack web development, 2026.
 - **MJM Graphics Design** — InDesign, Premiere Pro, and After Effects, 2023–2024.
 - **“Infographie : InDesign” certificate** — School Online University, earned on July 8, 2023 through a CPF-funded training programme.
+- **Photoshop training — UI Designer programme** — EXPERTAIDE, April to July 2022.
 - **TOSA Illustrator certification** — 185-hour CPF training programme from Tuto.com, offered by WEECAST, 2021.
 
 ## Creative background
